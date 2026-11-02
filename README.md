@@ -1,4 +1,4 @@
-# The Bayesian Learning Rule Beyond KL Geometry, NeurIPS 2026
+# The Bayesian Learning Rule Beyond KL Geometry
 
 Code is coming soon. 
 
@@ -7,13 +7,11 @@ Code is coming soon.
 If you use qvon or the generalized BLR framework in your research, please cite our paper:
 
 ```bibtex
-@misc{sklaviadis2026qvon,
+@inproceedings{sklaviadis2026qvon,
       title={The Bayesian Learning Rule Beyond KL Geometry}, 
       author={Sophia Sklaviadis, Wu Lin, Andre Martins, Mario Figueiredo, Thomas Moellenhoff, Emtiyaz Khan},
       year={2026},
-      eprint={2610.31308},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG},
+      booktitle={Advances in Neural Information Processing Systems (NeurIPS)},
       url={https://arxiv.org/abs/2610.31308}
 }
 ```
